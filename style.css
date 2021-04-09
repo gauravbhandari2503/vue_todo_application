@@ -1,0 +1,11 @@
+.checkList{
+    text-decoration: line-through;
+}
+
+.textGreen{
+    border: solid rgb(136, 243, 136) 5px ;
+}
+
+.textRed{
+    border: solid red 5px ;
+}
